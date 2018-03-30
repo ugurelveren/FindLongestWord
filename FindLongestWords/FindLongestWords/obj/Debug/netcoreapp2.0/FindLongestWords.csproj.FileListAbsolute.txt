@@ -1,0 +1,11 @@
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\bin\Debug\netcoreapp2.0\FindLongestWords.deps.json
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\bin\Debug\netcoreapp2.0\FindLongestWords.runtimeconfig.json
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\bin\Debug\netcoreapp2.0\FindLongestWords.runtimeconfig.dev.json
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\bin\Debug\netcoreapp2.0\FindLongestWords.dll
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\bin\Debug\netcoreapp2.0\FindLongestWords.pdb
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.csprojResolveAssemblyReference.cache
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.csproj.CoreCompileInputs.cache
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.AssemblyInfoInputs.cache
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.AssemblyInfo.cs
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.dll
+c:\users\havva\onedrive\documents\visual studio 2017\Projects\FindLongestWords\FindLongestWords\obj\Debug\netcoreapp2.0\FindLongestWords.pdb
